@@ -1,0 +1,19 @@
+<example>
+    <settings>
+        <general>
+            <setting name="setting-1" value="11" description="setting 1 desc"/>
+            <setting name="setting-2" value="22" description="setting 2 desc" />
+        </general>
+        <group-alpha>
+            <setting name="group-1-setting1" value="g1s1" description="one does not simply" />
+            <setting name="group-1-setting2" value="g1s2" description="one not simply does" />
+            <setting name="group-1-setting3" value="g1s3" description="simply does one not" />
+        </group-alpha>
+        <group-bravo>
+            <setting name="group-2-setting" value="g2s" description="read the" />
+        </group-bravo>
+        <group-charlie>
+            <setting name="group-3-setting" value="g3s" description="description" />
+        </group-charlie>
+    </settings>
+</example>

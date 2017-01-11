@@ -76,7 +76,7 @@ function Get-Setting {
         $msg = $Error[0].Exception.Message
         Write-Host -Message "ERROR in Get-Setting - MODE: $mode, MSG: $msg" -ForegroundColor Red
     }
-
+		
     return ToPsObject $xpath_results
 
 }
