@@ -1,4 +1,4 @@
-# PS XML Settings Managment
+# Powershell XML Settings Managment
 
 A standardised way to retreive settings from an XML file.
 
